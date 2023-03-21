@@ -22,8 +22,8 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #AF4743;
-  --background-secondary: #AF4743;
+  --background-primary: #262626;
+  --background-secondary: #0E0E0E;
   --background-secondary-alt: #381c1c;
   --background-secondary-alt-alt: #311b1b;
   --background-tertiary: #240606;
