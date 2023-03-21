@@ -13,7 +13,7 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #419e85;
+  --main-color: #a94e4e;
 
   /* Borders */
   --avatar-radius: 8px;
@@ -22,11 +22,11 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #252a3e;
-  --background-secondary: #1e2337;
-  --background-secondary-alt: #1c2438;
-  --background-secondary-alt-alt: #1b1d31;
-  --background-tertiary: #060c24;
+  --background-primary: #3e2525;
+  --background-secondary: #371e1e;
+  --background-secondary-alt: #381c1c;
+  --background-secondary-alt-alt: #311b1b;
+  --background-tertiary: #240606;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
