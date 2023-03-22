@@ -13,10 +13,10 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #a94e4e;
+  --main-color: #262626;
 
   /* Borders */
-  --avatar-radius: 8px;
+  --avatar-radius: 12px;
 }
 
 /* Dark/Light vars */
@@ -25,7 +25,7 @@
   --background-primary: #262626;
   --background-secondary: #202020;
   --background-secondary-alt: #381c1c;
-  --background-secondary-alt-alt: #311b1b;
+  --background-secondary-alt-alt: #381c1c;
   --background-tertiary: #AB4541;
 
   --deprecated-store-bg: var(--background-primary);
